@@ -37,10 +37,8 @@ Não é um chatbot demonstrativo.
 
 Abaixo estão imagens reais da arquitetura e dos fluxos do agente Primo no n8n.
 
-### Visão geral do agente Primo
 ![Fluxo geral do Primo](docs/images/PRIMO%20-%20CHATBOT%20OP.png)
 
-### Fluxos completos do agente
 ![Fluxos detalhados do Primo](docs/images/PRIMO%20-%20CHATBOT%20OP%20(2).png)
 
 ## Segurança

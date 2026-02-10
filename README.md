@@ -33,6 +33,16 @@ Não é um chatbot demonstrativo.
 - PostgreSQL / SQL Server
 - Redis
 
+- ## Arquitetura e Fluxos
+
+Abaixo estão imagens reais da arquitetura e dos fluxos do agente Primo no n8n.
+
+### Visão geral do agente Primo
+![Fluxo geral do Primo](docs/images/PRIMO%20-%20CHATBOT%20OP.png)
+
+### Fluxos completos do agente
+![Fluxos detalhados do Primo](docs/images/PRIMO%20-%20CHATBOT%20OP%20(2).png)
+
 ## Segurança
 
 Este repositório não contém dados reais, credenciais ou endpoints internos.

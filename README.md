@@ -33,7 +33,7 @@ Não é um chatbot demonstrativo.
 - PostgreSQL / SQL Server
 - Redis
 
-- ## Arquitetura e Fluxos
+## Arquitetura e Fluxos
 
 Abaixo estão imagens reais da arquitetura e dos fluxos do agente Primo no n8n.
 
